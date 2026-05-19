@@ -6,7 +6,7 @@
 
 # Hi, I'm Aman Sharma 👋
 
-### Full Stack Developer (MERN) | BCA 2nd Year | Agra, India
+### Full Stack Developer (MERN) | BCA 3rd Year | Agra, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-sharma7)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saraswataman007@gmail.com)
@@ -21,7 +21,7 @@
 
 - 💻 Full Stack Developer with **2 internships** in MERN stack development
 - 🤖 Experience integrating **AI features** using LangChain & vector databases (FAISS/Chroma)
-- 🎓 **BCA 2nd Year** — Agra Public College of Technology and Management
+- 🎓 **BCA 3rd Year** — Agra Public College of Technology and Management
 - 🏆 **Microsoft Generative AI** certified | Ranked among top participants in SQL challenges
 - 💼 Open to **internships & junior developer** roles
 - 📧 Reach me: **saraswataman007@gmail.com**
